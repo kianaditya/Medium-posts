@@ -1,5 +1,6 @@
 # Posts published on [Medium](https://medium.com/@naik.aditya)
 
+  * [Effortlessly control all network calls in your react app](https://medium.com/@naik.aditya/effortlessly-control-all-network-calls-in-your-react-application-4e1b5ad6d0d5)
   * [A simple GraphQL tutorial using ApolloClient](https://medium.com/craft-academy/a-simple-graphql-tutorial-for-react-a5613c0311d9)
   * [5 awesome tricks to turbocharge your React automated tests](https://medium.com/craft-academy/5-awesome-tricks-to-turbocharge-your-react-automated-tests-147776289c55)
   * [How to beat the bootcamp blues](https://medium.com/craft-academy/how-to-beat-the-bootcamp-blues-edecf8c1e3df)
