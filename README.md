@@ -1,5 +1,5 @@
 # Posts published on [Medium](https://medium.com/@naik.aditya)
-
+  * [Set up code coverage in cypress](https://medium.com/@naik.aditya/how-to-set-up-code-coverage-for-cypress-fd7da2c4aee)
   * [Get paid (in your React app) in 5* minutes or less](https://medium.com/craft-academy/get-paid-in-your-react-app-in-5-minutes-or-less-f56506639d85)
   * [Effortlessly control all network calls in your react app](https://medium.com/@naik.aditya/effortlessly-control-all-network-calls-in-your-react-application-4e1b5ad6d0d5)
   * [A simple GraphQL tutorial using ApolloClient](https://medium.com/craft-academy/a-simple-graphql-tutorial-for-react-a5613c0311d9)
