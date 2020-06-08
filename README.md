@@ -1,4 +1,5 @@
 # Posts published on [Medium](https://medium.com/@naik.aditya)
+  * [How to test web socket react implementation using Cypress](https://medium.com/craft-academy/how-to-test-react-websocket-implementation-using-cypress-6b4e859b3a6d)
   * [How I set up Google Hangouts in Rails](https://medium.com/@naik.aditya/how-i-set-up-google-hangouts-in-rails-d80fd379ab32)
   * [Set up code coverage in cypress](https://medium.com/@naik.aditya/how-to-set-up-code-coverage-for-cypress-fd7da2c4aee)
   * [Get paid (in your React app) in 5* minutes or less](https://medium.com/craft-academy/get-paid-in-your-react-app-in-5-minutes-or-less-f56506639d85)
