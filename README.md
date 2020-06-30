@@ -14,3 +14,4 @@
   * [Using sequelize with expressJS](https://medium.com/craft-academy/connecting-sequelize-with-expressjs-ab2a6fc44d12)
   * [Setting up Sequelize associations](https://medium.com/craft-academy/setting-up-sequelize-associations-abddc5ed16d0)
   * [Basic User Authentication in Express](https://medium.com/@naik.aditya/basic-user-authentication-in-express-6c996753a0b0)
+  * [User Authentication using JWT in Express](https://medium.com/@naik.aditya/basic-user-authentication-in-express-part-2-4d55681e41f6)
