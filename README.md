@@ -10,8 +10,8 @@
   * [How to hack React automated testing using localstorage](https://medium.com/craft-academy/how-to-leverage-localstorage-in-cypress-testing-3fdc04628868) (co-authored with [Greg](https://github.com/GergKllai1))
   
   A series on **Express + Sequelize + Passport**
-  * [How to scaffold ExpressJS server and test it](https://medium.com/craft-academy/how-to-scaffold-expressjs-server-and-test-it-d2a2ab1d30e0)
-  * [Using sequelize with expressJS](https://medium.com/craft-academy/connecting-sequelize-with-expressjs-ab2a6fc44d12)
-  * [Setting up Sequelize associations](https://medium.com/craft-academy/setting-up-sequelize-associations-abddc5ed16d0)
+  * [How to scaffold ExpressJS server and test it](https://medium.com/@naik.aditya/how-to-scaffold-expressjs-server-and-test-it-d2a2ab1d30e0)
+  * [Using sequelize with expressJS](https://medium.com/@naik.aditya/connecting-sequelize-with-expressjs-ab2a6fc44d12)
+  * [Setting up Sequelize associations](https://medium.com/@naik.aditya/setting-up-sequelize-associations-abddc5ed16d0)
   * [Basic User Authentication in Express](https://medium.com/@naik.aditya/basic-user-authentication-in-express-6c996753a0b0)
   * [User Authentication using JWT in Express](https://medium.com/@naik.aditya/basic-user-authentication-in-express-part-2-4d55681e41f6)
